@@ -1,0 +1,11 @@
+name: model_binder
+description: Just a way to make a two-way data binding in Dart.
+version: 0.0.1
+repository: https://github.com/lucas404x/model_binder
+
+environment:
+  sdk: '>=2.19.6 <4.0.0'
+
+dev_dependencies:
+  lints: ^2.0.1
+  test: ^1.24.1
